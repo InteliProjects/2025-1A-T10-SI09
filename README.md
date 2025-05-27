@@ -1,5 +1,3 @@
-# 2025-1A-T10-SI09
-
 <div align="center">
     <img src="https://drive.google.com/file/d/1ZuI8YLjpylr2MOPhzazjOZZ0lp998tnW/view?usp=drive_link"  width="200">
 </div>
