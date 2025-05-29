@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://drive.google.com/file/d/1ZuI8YLjpylr2MOPhzazjOZZ0lp998tnW/view?usp=drive_link"  width="200">
+    <img src="https://www.inteli.edu.br/wp-content/uploads/2024/06/logo-Cia-de-talentos-1080-768x432-1-300x169.png"  width="200">
 </div>
 
 
